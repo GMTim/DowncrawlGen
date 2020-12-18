@@ -40,6 +40,7 @@ const Funcs = {
 
 export default class {
     async loadData() {
+        if (this.effects && this.names) { return }
         this.effects = await Funcs.loadData("fungi/fungalEffects.json")
         this.names = await Funcs.loadData("fungi/fungalNames.json")
     }
