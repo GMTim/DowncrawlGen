@@ -1,0 +1,18 @@
+[
+    {
+        "target": 1,
+        "text": "Terrain"
+    },
+    {
+        "target": 2,
+        "text": "Resource"
+    },
+    {
+        "target": 3,
+        "text": "Volume"
+    },
+    {
+        "target": 4,
+        "text": "Folk"
+    }
+]
