@@ -1,7 +1,10 @@
 const Funcs = {
     loadData: async (path) => {
         return new Promise((resolve, reject) => {
-            $.getJSON("/data/" + path, (data) => {
+            let prefix = "/data/"
+            if (window.location.href.includes("bunchofbull.net")) { prefix = "/DowncrawlGen/data/" }
+            let location = window.location.href
+            $.getJSON(prefix + path, (data) => {
                 resolve(data)
             }).fail((error) => {
                 reject(error)
