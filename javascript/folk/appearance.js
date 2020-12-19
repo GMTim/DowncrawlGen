@@ -1,13 +1,6 @@
 import Common from "../common.js"
 
 const Funcs = {
-    load: async () => {
-        return new Promise((resolve, reject) => {
-            $.getJSON("./data/folk/appearances.json", (data) => {
-                resolve(data)
-            }).fail((error) => { reject(error) })
-        })
-    },
     evenOdd: (item) => {
         let object = { value: "", options: [] }
         if (Common.roll(2) == 1) {
@@ -28,7 +21,7 @@ const Funcs = {
 
 export default class {
     async load() {
-        this.data = await Funcs.load()
+        this.data = await Common.load("./data/folk/appearances.json")
     }
     get() {
         let item = Common.one(this.data)
