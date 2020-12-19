@@ -1,19 +1,23 @@
-import FungalGenerator from "./fungal/generator.js"
+import Navigator from "./navigator.js"
+import FungalHandler from "./fungal/handler.js"
+import HTMLLoader from "./htmlLoader.js"
 
-let fungalGenerator = new FungalGenerator()
-const newFungi = async () => {
-    await fungalGenerator.loadData()
-    let fungi = fungalGenerator.generate()
-    $("#fungi .inner").removeClass("hidden")
-    $("#fungi .title").text(fungi.name)
-    $("#fungi .worth .text").text(fungi.worth)
-    $("#fungi .primaryEffect .text").text(fungi.primaryEffect)
-    $("#fungi .sideEffect .text").text(fungi.sideEffect)
-}
+let handler
+let htmlLoader = new HTMLLoader()
+let navigator = new Navigator(async (target) => {
+    switch(target) {
+        case "navHome":
+            await htmlLoader.loadHome()
+            break
+        case "navFungi":
+            await htmlLoader.loadFungi()
+            handler = new FungalHandler()
+            await handler.bind()
+            break
+        default: break
+    }
+})
 
 $(async () => {
-    $("#fungiGenerate").on("click", async (event) => {
-        event.preventDefault()
-        await newFungi()
-    })
+    navigator.bind()
 })
