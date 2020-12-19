@@ -1,0 +1,118 @@
+[
+    {
+        "target": 2,
+        "value": "Privacy"
+    },
+    {
+        "target": 3,
+        "value": "Fuzz"
+    },
+    {
+        "target": 4,
+        "value": "Harmless Animals"
+    },
+    {
+        "target": 5,
+        "value": "Leaders"
+    },
+    {
+        "target": 6,
+        "value": "Buildings"
+    },
+    {
+        "target": 7,
+        "value": "Defenses"
+    },
+    {
+        "target": 8,
+        "value": "Skilled Labor"
+    },
+    {
+        "target": 9,
+        "value": "Tack"
+    },
+    {
+        "target": 10,
+        "value": "Food"
+    },
+    {
+        "target": 11,
+        "value": "Magic"
+    },
+    {
+        "target": 12,
+        "value": "Useful Animals"
+    },
+    {
+        "target": 13,
+        "value": "Trade"
+    },
+    {
+        "target": 14,
+        "value": "Wealth"
+    },
+    {
+        "target": 15,
+        "value": "Light"
+    },
+    {
+        "target": 16,
+        "value": "Monsters"
+    },
+    {
+        "target": 17,
+        "value": "Fungus"
+    },
+    {
+        "target": 18,
+        "value": "Water"
+    },
+    {
+        "target": 19,
+        "value": "Heat"
+    },
+    {
+        "target": 20,
+        "value": "Drugs"
+    },
+    {
+        "target": 21,
+        "value": "People"
+    },
+    {
+        "target": 22,
+        "value": "Religion"
+    },
+    {
+        "target": 23,
+        "value": "Safety"
+    },
+    {
+        "target": 24,
+        "value": "Community"
+    },
+    {
+        "target": 25,
+        "value": "Art/Culture"
+    },
+    {
+        "target": 26,
+        "value": "Patience"
+    },
+    {
+        "target": 27,
+        "value": "Medicine/Healing"
+    },
+    {
+        "target": 28,
+        "value": "Air"
+    },
+    {
+        "target": 29,
+        "value": "Open space"
+    },
+    {
+        "target": 30,
+        "value": "Knowledge"
+    }
+]

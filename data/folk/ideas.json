@@ -1,0 +1,119 @@
+[
+    {
+        "target": 1,
+        "even": "@@ Experts",
+        "odd": "Strange relationship with @@"
+    },
+    {
+        "target": 2,
+        "even": "Worships @@",
+        "odd": "Conceptual opposite of @@"
+    },
+    {
+        "target": 3,
+        "even": "Loves @@",
+        "odd": "Trade for/with @@"
+    },
+    {
+        "target": 4,
+        "even": "Needs @@",
+        "odd": "Hates @@"
+    },
+    {
+        "target": 5,
+        "even": "Hunt for/in @@",
+        "odd": "Disgusted by @@"
+    },
+    {
+        "target": 6,
+        "even": "Protects @@",
+        "odd": "Perfected survival in/with @@"
+    },
+    {
+        "target": 7,
+        "even": "Created @@",
+        "odd": "Seeks to destroy @@"
+    },
+    {
+        "target": 8,
+        "even": "Known for @@",
+        "odd": "Can’t come near @@"
+    },
+    {
+        "target": 9,
+        "even": "Searching for the perfect @@",
+        "odd": "Were once almost destroyed by @@"
+    },
+    {
+        "target": 10,
+        "even": "Evolved to live in/with @@",
+        "odd": "Exiled from/by @@"
+    },
+    {
+        "target": 11,
+        "even": "Rarely venture far from @@",
+        "odd": "Escaping @@"
+    },
+    {
+        "target": 12,
+        "even": "Their legends speak of a great @@",
+        "odd": "Feel superior to @@"
+    },
+    {
+        "target": 13,
+        "even": "Mental/mystical connection to @@",
+        "odd": "Parasites of @@"
+    },
+    {
+        "target": 14,
+        "even": "Want to improve @@",
+        "odd": "Only once in their lives do they approach @@"
+    },
+    {
+        "target": 15,
+        "even": "Symbolic affinity @@",
+        "odd": "Extremists @@"
+    },
+    {
+        "target": 16,
+        "even": "Love/Hate relationship with @@",
+        "odd": "Exploits @@"
+    },
+    {
+        "target": 17,
+        "even": "Made of @@",
+        "odd": "Great makers in the domain of @@",
+        "options": {
+            "even": ["Machinery", "a Primal Element", "Hybrid Parts", "Dead Pieces"],
+            "odd": ["War", "Work", "Food", "Infrastructure", "Textiles", "Art"]
+        }
+    },
+    {
+        "target": 18,
+        "even": "Navel-gazing, devoted to their own @@",
+        "odd": "Code of conduct based around @@",
+        "options": {
+            "even": ["Minds", "Bodies", "Beliefs", "Works"],
+            "odd": ["Honor", "Truth", "Aesthetics", "Economics"]
+        }
+    },
+    {
+        "target": 19,
+        "even": "Gender, @@",
+        "odd": "@R related to this folk by @@",
+        "options": {
+            "even": ["One", "Performative", "Three", "Changeable", "Private", "Unimportant", "Unequal", "Complex"],
+            "odd": ["Music", "Performance", "Sculpture", "Painting", "Stories", "Architecture"],
+            "needsSecondOption": ["odd"]
+        }
+    },
+    {
+        "target": 20,
+        "even": "Reproduction, @@",
+        "odd": "Language based on @@",
+        "options": {
+            "even": ["Egg-laying", "Mitosis", "Recruitment", "Rare"],
+            "odd": ["Light", "Subsonics", "Smell", "Movement"]
+        }
+    }
+]

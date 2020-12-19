@@ -1,0 +1,102 @@
+[
+    {
+        "target": 1,
+        "even": "Powerful",
+        "odd": "Lazy"
+    },
+    {
+        "target": 2,
+        "even": "Mysterious",
+        "odd": "Cheerful"
+    },
+    {
+        "target": 3,
+        "even": "Pushovers",
+        "odd": "Inconsequential"
+    },
+    {
+        "target": 4,
+        "even": "Respected",
+        "odd": "Superstitious"
+    },
+    {
+        "target": 5,
+        "even": "Power-hungry",
+        "odd": "Industrious"
+    },
+    {
+        "target": 6,
+        "even": "Fallen",
+        "odd": "Religious"
+    },
+    {
+        "target": 7,
+        "even": "Doomed",
+        "odd": "Violent"
+    },
+    {
+        "target": 8,
+        "even": "Unpredictable",
+        "odd": "Clumsy"
+    },
+    {
+        "target": 9,
+        "even": "Reliable",
+        "odd": "Scary"
+    },
+    {
+        "target": 10,
+        "even": "Ingenious",
+        "odd": "Gross"
+    },
+    {
+        "target": 11,
+        "even": "Tastemakers",
+        "odd": "Boring"
+    },
+    {
+        "target": 12,
+        "even": "Found everywhere",
+        "odd": "Destined for greatness"
+    },
+    {
+        "target": 13,
+        "even": "Poor",
+        "odd": "Kindly"
+    },
+    {
+        "target": 14,
+        "even": "Ridiculous",
+        "odd": "Stupid"
+    },
+    {
+        "target": 15,
+        "even": "Pitiable",
+        "odd": "Introspective"
+    },
+    {
+        "target": 16,
+        "even": "Dour",
+        "odd": "Unforgivable"
+    },
+    {
+        "target": 17,
+        "even": "Uncivilized",
+        "odd": "Socially invisible"
+    },
+    {
+        "target": 18,
+        "even": "Revered",
+        "odd": "Religious"
+    },
+    {
+        "target": 19,
+        "even": "Untrustworthy",
+        "odd": "Scatterbrained"
+    },
+    {
+        "target": 20,
+        "even": "Decadent",
+        "odd": "Curious"
+    }
+]

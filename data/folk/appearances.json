@@ -1,0 +1,137 @@
+[
+    {
+        "target": 1,
+        "even": "Huge",
+        "odd": "Large"
+    },
+    {
+        "target": 2,
+        "even": "Small",
+        "odd": "Tiny"
+    },
+    {
+        "target": 3,
+        "even": "Arms: @@",
+        "odd": "Nose: @@",
+        "options": {
+            "even": ["none", "many", "long", "tentacles"],
+            "odd": ["beak", "trunk", "sensitive", "none"]
+        }
+    },
+    {
+        "target": 4,
+        "even": "Legs: @@",
+        "odd": "Face: @@",
+        "options": {
+            "even": ["one", "four", "many", "long", "multi-jointed"],
+            "odd": ["kindly", "distorted", "more than one", "none"]
+        }
+    },
+    {
+        "target": 5,
+        "even": "Eyes: @@",
+        "odd": "Sounds: @@",
+        "options": {
+            "even": ["strange", "enchanted", "many", "one"],
+            "odd": ["noisy", "silent", "captivating", "painful"]
+        }
+    },
+    {
+        "target": 6,
+        "even": "Head: @@",
+        "odd": "Smells: @@",
+        "options": {
+            "even": ["enlarged", "unusually positioned", "multiple", "none"],
+            "odd": ["overpowering", "sweet", "distinctive", "mimicry"]
+        }
+    },
+    {
+        "target": 7,
+        "even": "Hair: @@",
+        "odd": "Shadows and translucence",
+        "options": {
+            "even": ["strange", "styled", "lots", "none"]
+        }
+    },
+    {
+        "target": 8,
+        "even": "Stone and earth",
+        "odd": "Heat and flames"
+    },
+    {
+        "target": 9,
+        "even": "Gills and scales",
+        "odd": "Claws and teeth"
+    },
+    {
+        "target": 10,
+        "even": "Sleek and muscled",
+        "odd": "Antlers or horns"
+    },
+    {
+        "target": 11,
+        "even": "Gears and machinery",
+        "odd": "Moss and fungus"
+    },
+    {
+        "target": 12,
+        "even": "Wings or feathers",
+        "odd": "Humps and pouches"
+    },
+    {
+        "target": 13,
+        "even": "Hybrids and mutants",
+        "odd": "Snouts and tails"
+    },
+    {
+        "target": 14,
+        "even": "Bones and rot",
+        "odd": "Squishy or gelatinous"
+    },
+    {
+        "target": 15,
+        "even": "Twins or packs",
+        "odd": "Whiskered or bearded"
+    },
+    {
+        "target": 16,
+        "even": "Shells or spines",
+        "odd": "Colorful"
+    },
+    {
+        "target": 17,
+        "even": "Simple costume: @@",
+        "odd": "Elaborate costume: @@",
+        "options": {
+            "even": ["rags", "monochrome", "practical", "none"],
+            "odd": ["robes", "silks", "battle gear", "ceremonial"]
+        }
+    },
+    {
+        "target": 18,
+        "even": "Need costume to survive: @@",
+        "odd": "Movement: @@",
+        "options": {
+            "even": ["rebreather", "armored suit", "wheeled tank", "magic helm"],
+            "odd": ["graceful", "clumsy", "unusual", "infrequent"]
+        }
+    },
+    {
+        "target": 19,
+        "even": "Memories: @@",
+        "odd": "Insensate: @@",
+        "options": {
+            "even": ["short", "long", "specific", "strange"],
+            "odd": ["blind", "color-blind", "deaf", "only hear high frequencies", "only hear low frequencies"]
+        }
+    },
+    {
+        "target": 20,
+        "even": "Mercurial: @@",
+        "odd": "Magic: @@",
+        "options": {
+            "even": ["shapeshifters", "illusionists", "planewalkers", "masked"],
+            "odd": ["potent in", "sustained by", "withered from", "immune to"]
+        }
+    }
+]
