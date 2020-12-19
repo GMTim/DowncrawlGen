@@ -10,8 +10,21 @@
     </style>
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">DowncrawlGen</span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="navbar-nav">
+                    <a id="navHome" class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a id="navFungi" class="nav-link" href="#">Fungi</a>
+                </div>
+            </div>
+        </div>
+    </nav>
     <div class="container">
-        <h1>DowncrawlGen</h1>
         <div id="content">
             <div id="fungi">
                 <div class="row">
@@ -22,22 +35,22 @@
                         <h3 class="col title"></h3>
                     </div>
                     <div class="row">
-                    <div class="col-1"><em>Worth</em></div>
-                    <div class="col"><em>Primary Effect</em></div>
-                    <div class="col"><em>Side Effect</em></div>
-                </div>
+                        <div class="col-1"><em>Worth</em></div>
+                        <div class="col"><em>Primary Effect</em></div>
+                        <div class="col"><em>Side Effect</em></div>
+                    </div>
                     <div class="row">
-                    <div class="col-1 worth"></div>
-                    <div class="col primaryEffect"></div>
-                    <div class="col sideEffect"></div>
+                        <div class="col-1 worth"></div>
+                        <div class="col primaryEffect"></div>
+                        <div class="col sideEffect"></div>
+                    </div>
                 </div>
+                <br />
+                <br />
+                <br />
+                <div class="row">
+                    <div class="col"><button class="btn btn-outline-primary" id="fungiGenerate">Generate Fungi</button></div>
                 </div>
-              <br />
-              <br />
-              <br />
-              <div class="row">
-                  <div class="col"><button class="btn btn-outline-primary" id="fungiGenerate">Generate Fungi</button></div>
-              </div>
             </div>
         </div>
     </div>

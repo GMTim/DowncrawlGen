@@ -1,4 +1,9 @@
+import Navigator from "./navigator.js"
 import FungalGenerator from "./fungal/generator.js"
+
+let navigator = new Navigator((target) => {
+    console.log(target)
+})
 
 let fungalGenerator = new FungalGenerator()
 const newFungi = async () => {
@@ -12,6 +17,7 @@ const newFungi = async () => {
 }
 
 $(async () => {
+    navigator.bind()
     $("#fungiGenerate").on("click", async (event) => {
         event.preventDefault()
         await newFungi()
