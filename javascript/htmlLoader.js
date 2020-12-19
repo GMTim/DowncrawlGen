@@ -10,10 +10,16 @@ const Funcs = {
 }
 
 export default class {
+    constructor() {
+        this.main = $("#content")
+    }
     async load(element, name) {
         await Funcs.load(element, name)
     }
+    async loadHome() {
+        await Funcs.load(this.main, "home")
+    }
     async loadFungi() {
-        await Funcs.load($("#content"), "fungi")
+        await Funcs.load(this.main, "fungi")
     }
 }

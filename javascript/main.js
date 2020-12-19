@@ -6,6 +6,9 @@ let handler
 let htmlLoader = new HTMLLoader()
 let navigator = new Navigator(async (target) => {
     switch(target) {
+        case "navHome":
+            await htmlLoader.loadHome()
+            break
         case "navFungi":
             await htmlLoader.loadFungi()
             handler = new FungalHandler()

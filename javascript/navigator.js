@@ -17,6 +17,6 @@ export default class {
             target.attr("aria-current", "page")
             await this.navChanged(target.attr("id"))
         })
-        return this
+        this.navChanged($(this.home).attr("id"))
     }
 }
