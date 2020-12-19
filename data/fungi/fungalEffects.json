@@ -1,0 +1,216 @@
+[
+    {
+        "target": 4,
+        "worth": "$",
+        "primaryEffect": "Sharpened hearing",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 5,
+        "worth": "$$$",
+        "primaryEffect": "Become shadowy and hard-to-see; Penalty to being perceived",
+        "sideEffect": "You glow brightly"
+    },
+    {
+        "target": 6,
+        "worth": "$$$",
+        "primaryEffect": "Mild precognition: Bonus on reaction checks and can’t be surprised",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 7,
+        "worth": "$$",
+        "primaryEffect": "Ignore lose all Tack results on your Travel Rolls",
+        "sideEffect": "Double crit fail range for Travel Rolls"
+    },
+    {
+        "target": 8,
+        "worth": "$",
+        "primaryEffect": "Become lighter, as if in one-third normal gravity",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 9,
+        "worth": "$$",
+        "primaryEffect": "Rarely need to @@",
+        "sideEffect": "Opposite",
+        "options": ["eat", "drink", "breathe", "sleep"]
+    },
+    {
+        "target": 10,
+        "worth": "$$",
+        "primaryEffect": "Can smell spores: Double Bonus to Foraging",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 11,
+        "worth": "$$",
+        "primaryEffect": "You smell like the Down; Double Penalty to being tracked",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 12,
+        "worth": "$",
+        "primaryEffect": "Sparkling eyes: Bonus to NPC interactions",
+        "sideEffect": "50% chance for them to flee in horror"
+    },
+    {
+        "target": 13,
+        "worth": "$",
+        "primaryEffect": "Rarely afraid",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 14,
+        "worth": "$$",
+        "primaryEffect": "Become 25% @@",
+        "sideEffect": "Opposite",
+        "options": ["smaller", "larger", "wider", "taller"]
+    },
+    {
+        "target": 15,
+        "worth": "$$",
+        "primaryEffect": "Heightened awareness of detail (Bonus on relevant skill checks)",
+        "sideEffect": "Hallucinations"
+    },
+    {
+        "target": 16,
+        "worth": "$$",
+        "primaryEffect": "Bonus to a random stat (d6; fixed per batch)",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 17,
+        "worth": "$",
+        "primaryEffect": "Effects of Exhaustion temporarily halved",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 18,
+        "worth": "$$",
+        "primaryEffect": "Minor healing",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 19,
+        "worth": "$$",
+        "primaryEffect": "+d4 (d20) or +1 (2d6) per Travel roll",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 20,
+        "worth": "$",
+        "primaryEffect": "Mushrations: edible, as 1 ration",
+        "sideEffect": "Terrible nausea: Penalty on all rolls"
+    },
+    {
+        "target": 21,
+        "worth": "$",
+        "primaryEffect": "Fungwrung: when squeezed, intoxicating liquid comes out",
+        "sideEffect": "...which gets you blackout drunk"
+    },
+    {
+        "target": 22,
+        "worth": "$$",
+        "primaryEffect": "Highly resistant to @@",
+        "sideEffect": "Opposite",
+        "options": ["fire", "cold", "poison", "magic"]
+    },
+    {
+        "target": 23,
+        "worth": "$",
+        "primaryEffect": "Language-learning booster: with 7 doses and study with a native speaker, learn a new language in a week",
+        "sideEffect": "Become violently allergic to the Fuzz"
+    },
+    {
+        "target": 24,
+        "worth": "$",
+        "primaryEffect": "Fall into a deep sleep and get one normal full rest",
+        "sideEffect": "Nightmares & can’t sleep at all: gain 1 Exhaustion"
+    },
+    {
+        "target": 25,
+        "worth": "$$",
+        "primaryEffect": "Recover all spell abilities",
+        "sideEffect": "Using magic triggers unexpected side effects"
+    },
+    {
+        "target": 26,
+        "worth": "$$",
+        "primaryEffect": "Commanding voice: Bonus to getting people to do what you say",
+        "sideEffect": "Voice becomes high-pitched and everything is hilarious"
+    },
+    {
+        "target": 27,
+        "worth": "$$",
+        "primaryEffect": "Beserker: Bonus to all combat rolls",
+        "sideEffect": "Same, but can’t resist a fight"
+    },
+    {
+        "target": 28,
+        "worth": "$$",
+        "primaryEffect": "Become repugnant to undead",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 29,
+        "worth": "$",
+        "primaryEffect": "Sense nearby danger by touching rock",
+        "sideEffect": "Frequent nosebleeds"
+    },
+    {
+        "target": 30,
+        "worth": "$$",
+        "primaryEffect": "Become loved by @@",
+        "sideEffect": "Opposite",
+        "options": ["animals", "monsters", "people", "plants"]
+    },
+    {
+        "target": 31,
+        "worth": "$$$",
+        "primaryEffect": "Major healing",
+        "sideEffect": "Opposite"
+    },
+    {
+        "target": 32,
+        "worth": "$$$",
+        "primaryEffect": "Grippy-hands: move on walls or ceilings at half speed",
+        "sideEffect": "Can’t walk a straight line"
+    },
+    {
+        "target": 33,
+        "worth": "$",
+        "primaryEffect": "Extreme enthusiasm for everything",
+        "sideEffect": "Lethargy"
+    },
+    {
+        "target": 34,
+        "worth": "$",
+        "primaryEffect": "See details at a much greater distance",
+        "sideEffect": "Blindness"
+    },
+    {
+        "target": 35,
+        "worth": "$$",
+        "primaryEffect": "Speak with mushrooms",
+        "sideEffect": "Mushrooms won’t stop speaking to you"
+    },
+    {
+        "target": 36,
+        "worth": "$",
+        "primaryEffect": "Skin changes color based on your emotions, like a mood ring",
+        "sideEffect": "You only think you can see this happening & are insufferable about it"
+    },
+    {
+        "target": 37,
+        "worth": "$$$",
+        "primaryEffect": "No effect but highly prized by collectors",
+        "sideEffect": "As spicy as the spiciest hot pepper"
+    },
+    {
+        "target": 38,
+        "worth": "$$",
+        "primaryEffect": "Your left hand can find secret things",
+        "sideEffect": "Your left hand is now controlled by the player on your left"
+    }
+]
