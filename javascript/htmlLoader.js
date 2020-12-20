@@ -19,6 +19,9 @@ export default class {
     async loadHome() {
         await Funcs.load(this.main, "home")
     }
+    async loadFolk() {
+        await Funcs.load(this.main, "folk")
+    }
     async loadFungi() {
         await Funcs.load(this.main, "fungi")
     }
