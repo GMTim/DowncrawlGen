@@ -11,9 +11,9 @@ export default class {
             let fungi = this.generator.generate()
             $("#fungi .inner").removeClass("hidden")
             $("#fungi .title").text(fungi.name)
-            $("#fungi .worth").text(fungi.worth)
-            $("#fungi .primaryEffect").text(fungi.primaryEffect)
-            $("#fungi .sideEffect").text(fungi.sideEffect)
+            $("#fungi .worth .target").text(fungi.worth)
+            $("#fungi .primaryEffect .target").text(fungi.primaryEffect)
+            $("#fungi .sideEffect .target").text(fungi.sideEffect)
         })
     }
 }
