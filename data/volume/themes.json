@@ -1,0 +1,462 @@
+[
+    {
+        "target": {
+            "first": 1,
+            "second": 1
+        },
+        "value": "Anarchy"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 1
+        },
+        "value": "Mecca"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 2
+        },
+        "value": "War Zone"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 2
+        },
+        "value": "Lap of Luxury"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 3
+        },
+        "value": "Rebellion"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 3
+        },
+        "value": "Poverty"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 4
+        },
+        "value": "Colony"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 4
+        },
+        "value": "Kingdom"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 5
+        },
+        "value": "In Decline"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 5
+        },
+        "value": "Empire"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 6
+        },
+        "value": "Booming"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 6
+        },
+        "value": "Gears and mechanisms"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 7
+        },
+        "value": "Cultural Upheaval"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 7
+        },
+        "value": "Rare Resource"
+    },
+    {
+        "target": {
+            "first": 1,
+            "second": 8
+        },
+        "value": "Radical Lifestyle"
+    },
+    {
+        "target": {
+            "first": 5,
+            "second": 8
+        },
+        "value": "Necropolis"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 1
+        },
+        "value": "Failed State"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 1
+        },
+        "value": "Great City"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 2
+        },
+        "value": "Second Chance"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 2
+        },
+        "value": "Scattered Holdfasts"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 3
+        },
+        "value": "Exiles"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 3
+        },
+        "value": "Lazy Villages"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 4
+        },
+        "value": "Isolationist"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 4
+        },
+        "value": "Rival Forces"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 5
+        },
+        "value": "Forbidden Knowledge"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 5
+        },
+        "value": "Dictator"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 6
+        },
+        "value": "Impending Doom"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 6
+        },
+        "value": "Decadent"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 7
+        },
+        "value": "Melting Pot"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 7
+        },
+        "value": "Library"
+    },
+    {
+        "target": {
+            "first": 2,
+            "second": 8
+        },
+        "value": "Quarantined"
+    },
+    {
+        "target": {
+            "first": 6,
+            "second": 8
+        },
+        "value": "Prison"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 1
+        },
+        "value": "Rare Magic"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 1
+        },
+        "value": "Crusaders"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 2
+        },
+        "value": "Barely Contained Magic"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 2
+        },
+        "value": "Monster City"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 3
+        },
+        "value": "Ruined by Magic"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 3
+        },
+        "value": "Weird City"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 4
+        },
+        "value": "University"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 4
+        },
+        "value": "Legendary"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 5
+        },
+        "value": "Lair"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 5
+        },
+        "value": "Crossroads"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 6
+        },
+        "value": "Monumental Project"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 6
+        },
+        "value": "Grand Market"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 7
+        },
+        "value": "Profoundly Weird"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 7
+        },
+        "value": "Utopia"
+    },
+    {
+        "target": {
+            "first": 3,
+            "second": 8
+        },
+        "value": "Last Bastion"
+    },
+    {
+        "target": {
+            "first": 7,
+            "second": 8
+        },
+        "value": "Mining Operation"
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 1
+        },
+        "value": "Trading Post"
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 1
+        },
+        "value": "Holy Site"
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 2
+        },
+        "value": "Wasteland"
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 2
+        },
+        "value": "Repugnant"
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 3
+        },
+        "value": "@@ Mages",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 3
+        },
+        "value": "@@ Artists",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 4
+        },
+        "value": "@@ Farmers",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 4
+        },
+        "value": "@@ Undead",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 5
+        },
+        "value": "@@ Elementals",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 5
+        },
+        "value": "@@ Sages",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 6
+        },
+        "value": "@@ Merchants",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 6
+        },
+        "value": "@@ Warriors",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 7
+        },
+        "value": "@@ Nomads",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 7
+        },
+        "value": "@@ Hunters",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 4,
+            "second": 8
+        },
+        "value": "@@ Priests",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    },
+    {
+        "target": {
+            "first": 8,
+            "second": 8
+        },
+        "value": "@@ Makers",
+        "options": ["Ruled by", "Famous for", "Hostile to", "Unusual"]
+    }
+]
