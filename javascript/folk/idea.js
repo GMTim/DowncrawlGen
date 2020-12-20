@@ -33,7 +33,7 @@ const Funcs = {
         do {
             second = Common.one(data)
             second = Funcs.evenOrOdd(second)
-        } while(second.needsTwo == false)
+        } while(second.needsTwo == true)
         second = Funcs.process(second, connection)
         return item.value.replace("@R", second.value)
     }

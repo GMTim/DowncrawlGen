@@ -1,0 +1,510 @@
+{
+    "adjective": [
+        {
+            "target": {
+                "first": 1,
+                "second": 1
+            },
+            "value": "emerald"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 2
+            },
+            "value": "silver"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 3
+            },
+            "value": "sea"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 4
+            },
+            "value": "sovereign’s"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 5
+            },
+            "value": "imperial"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 6
+            },
+            "value": "god"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 1
+            },
+            "value": "serpent"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 2
+            },
+            "value": "bronze"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 3
+            },
+            "value": "weighted"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 4
+            },
+            "value": "general’s"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 5
+            },
+            "value": "invisible"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 6
+            },
+            "value": "painted"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 1
+            },
+            "value": "haunted"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 2
+            },
+            "value": "ruby"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 3
+            },
+            "value": "crystal"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 4
+            },
+            "value": "demon"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 5
+            },
+            "value": "titan"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 6
+            },
+            "value": "powdered"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 1
+            },
+            "value": "glimmer"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 2
+            },
+            "value": "clay"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 3
+            },
+            "value": "amber"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 4
+            },
+            "value": "azure"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 5
+            },
+            "value": "pewter"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 6
+            },
+            "value": "jade"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 1
+            },
+            "value": "fire"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 2
+            },
+            "value": "obsidian"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 3
+            },
+            "value": "blood"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 4
+            },
+            "value": "void"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 5
+            },
+            "value": "living"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 6
+            },
+            "value": "secret"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 1
+            },
+            "value": "peasant"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 2
+            },
+            "value": "hollow"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 3
+            },
+            "value": "rune"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 4
+            },
+            "value": "pledge"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 5
+            },
+            "value": "elder"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 6
+            },
+            "value": "certified"
+        }
+    ],
+    "noun": [
+        {
+            "target": {
+                "first": 1,
+                "second": 1
+            },
+            "value": "buttons"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 2
+            },
+            "value": "chimes"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 3
+            },
+            "value": "pearls"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 4
+            },
+            "value": "thread"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 5
+            },
+            "value": "prisms"
+        },
+        {
+            "target": {
+                "first": 1,
+                "second": 6
+            },
+            "value": "shells"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 1
+            },
+            "value": "buckles"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 2
+            },
+            "value": "seeds"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 3
+            },
+            "value": "pennies"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 4
+            },
+            "value": "cubits"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 5
+            },
+            "value": "marbles"
+        },
+        {
+            "target": {
+                "first": 2,
+                "second": 6
+            },
+            "value": "feathers"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 1
+            },
+            "value": "ducats"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 2
+            },
+            "value": "obols"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 3
+            },
+            "value": "shards"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 4
+            },
+            "value": "coins"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 5
+            },
+            "value": "florins"
+        },
+        {
+            "target": {
+                "first": 3,
+                "second": 6
+            },
+            "value": "ingots"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 1
+            },
+            "value": "stones"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 2
+            },
+            "value": "shillings"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 3
+            },
+            "value": "sheaves"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 4
+            },
+            "value": "farthings"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 5
+            },
+            "value": "salts"
+        },
+        {
+            "target": {
+                "first": 4,
+                "second": 6
+            },
+            "value": "shekels"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 1
+            },
+            "value": "beads"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 2
+            },
+            "value": "songs"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 3
+            },
+            "value": "ribbons"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 4
+            },
+            "value": "dust"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 5
+            },
+            "value": "guilders"
+        },
+        {
+            "target": {
+                "first": 5,
+                "second": 6
+            },
+            "value": "rounds"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 1
+            },
+            "value": "thummins"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 2
+            },
+            "value": "promises"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 3
+            },
+            "value": "pebbles"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 4
+            },
+            "value": "scrip"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 5
+            },
+            "value": "bells"
+        },
+        {
+            "target": {
+                "first": 6,
+                "second": 6
+            },
+            "value": "dice"
+        }
+    ]
+}

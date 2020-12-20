@@ -25,4 +25,7 @@ export default class {
     async loadFungi() {
         await Funcs.load(this.main, "fungi")
     }
+    async loadVolume() {
+        await Funcs.load(this.main, "volume")
+    }
 }
