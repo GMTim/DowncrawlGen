@@ -1,3 +1,5 @@
+import Common from "../common.js"
+
 const Funcs = {
     loadData: async (path) => {
         return new Promise((resolve, reject) => {
@@ -12,7 +14,7 @@ const Funcs = {
         })
     },
     roll: (sides) => {
-        return Math.floor(Math.random() * sides) + 1
+        return Common.roll(sides)
     },
     getEffect: (effects) => {
         const find = () => {
