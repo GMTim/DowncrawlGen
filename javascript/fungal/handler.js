@@ -5,10 +5,10 @@ export default class {
         this.generator = new Generator()
     }
     async bind() {
-        await this.generator.loadData()
+        await this.generator.load()
         $("#fungiGenerate").on("click", async (event) => {
             event.preventDefault()
-            let fungi = this.generator.generate()
+            let fungi = this.generator.get()
             $("#fungi .inner").removeClass("hidden")
             $("#fungi .title").text(fungi.name)
             $("#fungi .worth .target").text(fungi.worth)
