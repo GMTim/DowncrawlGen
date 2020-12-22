@@ -1,0 +1,245 @@
+{
+    "treasure": {
+        "target": 1,
+        "name": "Treasure",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "Currency from the origin volume"
+            },
+            {
+                "target": {
+                    "start": 2,
+                    "end": 2
+                },
+                "value": "Currency from the destination"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "A rare or common resource in the origin or destination"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Merchant: @@",
+                "options": ["snack vendor", "fungus seller", "drug dealer", "bookseller", "weaponsmith"]
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Magic @@",
+                "options": ["weapon", "armor", "ring", "wand", "potion"]
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Valuables: @@",
+                "options": ["artwork", "useful tools", "trade goods"]
+            }
+        ]
+    },
+    "shelter": {
+        "target": 2,
+        "name": "Shelter",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 2
+                },
+                "value": "Bonus to Encamp rolls the next day"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 4
+                },
+                "value": "Bonus to Encamp rolls the next day, and roll again on this table for something found here"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 6
+                },
+                "value": "Bonus to Encamp rolls the next day, but already occupied (negotiation may be in order)"
+            }
+        ]
+    },
+    "tack": {
+        "target": 3,
+        "name": "Tack",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 2
+                },
+                "value": "Find 1 Tack: @@",
+                "options": [
+                    "abandoned railway",
+                    "map scrawled on wall",
+                    "travelers with directions",
+                    "tracks",
+                    "signpost",
+                    "ancient parchment",
+                    "landmark",
+                    "sudden memory",
+                    "funny feeling"
+                ]
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 4
+                },
+                "value": "Find 2 Tack: @@",
+                "options": [
+                    "abandoned railway",
+                    "map scrawled on wall",
+                    "travelers with directions",
+                    "tracks",
+                    "signpost",
+                    "ancient parchment",
+                    "landmark",
+                    "sudden memory",
+                    "funny feeling"
+                ]
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 6
+                },
+                "value": "Find 3 Tack: @@",
+                "options": [
+                    "abandoned railway",
+                    "map scrawled on wall",
+                    "travelers with directions",
+                    "tracks",
+                    "signpost",
+                    "ancient parchment",
+                    "landmark",
+                    "sudden memory",
+                    "funny feeling"
+                ]
+            }
+        ]
+    },
+    "information": {
+        "target": 4,
+        "name": "Information",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 2
+                },
+                "value": "Roll again for the next encounter and save the result: the players learn a useful or interesting piece of foreshadowing about it"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "Roll for tomorrow’s terrain: if the players act to prepare, give them a Bonus on relevant rolls made the next day"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Connection to a plot thread in the overall campaign story"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Useful or interesting Rumor about their destination"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Useful or interesting Rumor about somewhere else"
+            }
+        ]
+    },
+    "resources": {
+        "target": 5,
+        "name": "Resources",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "Healing: @@",
+                "options": ["potion", "naturally beneficial springs", "vein of magic", "traveling cleric"]
+            },
+            {
+                "target": {
+                    "start": 2,
+                    "end": 2
+                },
+                "value": "Magic: @@",
+                "options": ["regenerating pool", "scroll", "spellbook", "restorative runes"]
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "Good meal: remove 1 Exhaustion"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Tokens of safety: Lower the Danger"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Allies: @@",
+                "options": ["potential followers", "fans", "old friends", "kindly wanderers"]
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Fungus"
+            }
+        ]
+    },
+    "environment": {
+        "target": 6,
+        "name": "Environment",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "The terrain the players are passing through is especially beautiful, weird, or memorable: give them an awe-inspiring description"
+            }
+        ]
+    }
+}
