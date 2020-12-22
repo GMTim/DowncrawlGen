@@ -3,6 +3,7 @@ import HTMLLoader from "./htmlLoader.js"
 import FolkHanlder from "./folk/handler.js"
 import FungalHandler from "./fungal/handler.js"
 import VolumeHandler from "./volume/handler.js"
+import A from "./encounters/travelEncounter.js"
 
 let handler
 let htmlLoader = new HTMLLoader()
@@ -30,4 +31,7 @@ let navigator = new Navigator(async (target) => {
 
 $(async () => {
     navigator.bind()
+    let a = new A()
+    await a.load()
+    console.log(a.get())
 })

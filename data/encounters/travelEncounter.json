@@ -1,0 +1,27 @@
+[
+    {
+        "target": {
+            "start": 1,
+            "end": 2
+        },
+        "value": "Opportunity"
+    }, {
+        "target": {
+            "start": 3,
+            "end": 3
+        },
+        "value": "No Encounter"
+    }, {
+        "target": {
+            "start": 4,
+            "end": 5
+        },
+        "value": "Challenge"
+    }, {
+        "target": {
+            "start": 6,
+            "end": 6
+        },
+        "value": "Threat"
+    }
+]
