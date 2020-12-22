@@ -16,7 +16,7 @@ const Funcs = {
         let processedItem = { worth: item.worth, primaryEffect: item.primaryEffect, sideEffect: item.sideEffect }
         if (item.options == undefined) { return processedItem }
         let option = Common.one(item.options)
-        processedItem.primaryEffect = processedItem.primaryEffect.replace(option)
+        processedItem.primaryEffect = processedItem.primaryEffect.replace("@@", option)
         return processedItem
     }
 }
