@@ -1,0 +1,249 @@
+{
+    "threatenTreasure": {
+        "target": 1,
+        "name": "Threaten Treasure",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "Currency ()",
+                "options": ["toll", "tax collectors", "coin-eating fiends", "gambling den", "muggers"]
+            },
+            {
+                "target": {
+                    "start": 2,
+                    "end": 2
+                },
+                "value": "Rot (mushrooms, documents, rations, books/scrolls)"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "Theft (critters, cutpurse, “friendly” travelers, just gone)"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Cursed (whispers, phylactary, undroppable, obsession, “has that always been glowing?”)"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Devalued (traveling appraiser, economic reform, illusion, oversaturated markets)"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Charity (good cause, desperate family, traveling circus, ally in need, magic wishing well)"
+            }
+        ]
+    },
+    "threatenShelter": {
+        "target": 2,
+        "name": "Threaten Shelter",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 3
+                },
+                "value": "Rough region (slippery, ghoul-infested, sulfur vent,, cave ants, awful noise)"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 5
+                },
+                "value": "Already occupied (monsters, lepers, game hunters, nuns, tourists)"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Food rotten or stolen"
+            }
+        ]
+    },
+    "exhaustion": {
+        "target": 3,
+        "name": "Exhaustion",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 3
+                },
+                "value": "Treacherous terrain (mud, steep, sharp, drop-off, ooze, water)"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 5
+                },
+                "value": "Bad air (disease, allergic, extreme temperature, coal dust.)"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Can’t stop moving (rising water/lava, swarm, piercing wind, demons, army)"
+            }
+        ]
+    },
+    "threatenCompanions": {
+        "target": 4,
+        "name": "Threaten Companions",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "Illness (bad water/food/air, pox, shivers, detox, plague)"
+            },
+            {
+                "target": {
+                    "start": 2,
+                    "end": 2
+                },
+                "value": "Redshirted (one wrong step, thing in the shadows, got lost)"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "Change of heart (betrayal, homesick, identity crisis, news from home, better offer)"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Usefulness (growing fear, lazy, overexcited, careless, clumsy)"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Captured (slavers, spiders, love interest, ransom, Stockholm, mind control)"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Injury (old trap, weapon mishap, blinded, needs a rest day, comatose, must be carried)"
+            }
+        ]
+    },
+    "threatenHP": {
+        "target": 5,
+        "name": "Threaten HP",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "Dangerous environment (sharp rocks, scorching fumes, crumbling ledge, fire)"
+            },
+            {
+                "target": {
+                    "start": 2,
+                    "end": 2
+                },
+                "value": "Ancient trap (pits, blades, sparks, flames, crushing)"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "Swarm (insects, rodents, lizards, elementals, animated objects, dead things)"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Nature’s fury (folk-eating plants, strangling vines, thorns, oozing acid)"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Accident (crumbling tunnel, frayed rope, one wrong step, “not that door!”)"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Damage from a distance (snipers, falling stalactites, electrical discharge, magic gone haywire)"
+            }
+        ]
+    },
+    "threatenTack": {
+        "target": 6,
+        "name": "Threaten Tack",
+        "values": [
+            {
+                "target": {
+                    "start": 1,
+                    "end": 1
+                },
+                "value": "Confusing terrain (maze, mirrors, monotonous tunnels, twisty passages)"
+            },
+            {
+                "target": {
+                    "start": 2,
+                    "end": 2
+                },
+                "value": "Accident (wrong turn, map upside down, missed junction, second-guessing)"
+            },
+            {
+                "target": {
+                    "start": 3,
+                    "end": 3
+                },
+                "value": "Forced off-course (chased, rockslide, bridge collapses, flash flood)"
+            },
+            {
+                "target": {
+                    "start": 4,
+                    "end": 4
+                },
+                "value": "Missing piece (map smudged, notes lost, directions wrong, landmark missing)"
+            },
+            {
+                "target": {
+                    "start": 5,
+                    "end": 5
+                },
+                "value": "Bad intel (false sign, con artists, confused vacationers, map’s plain wrong)"
+            },
+            {
+                "target": {
+                    "start": 6,
+                    "end": 6
+                },
+                "value": "Re-route (caved-in, bricked-over, infestation, bad magic, flooded, mudslide)"
+            }
+        ]
+    }
+}
